@@ -35,7 +35,7 @@ The system emphasizes **explainability, reproducibility, and production readines
 ## Repository Structure
 
 HybridTrafficUAE/
-├── data/ # raw + processed data
+├── data/ processed data
 ├── models/ # saved models & feature configs
 ├── notebooks/ # EDA & model analysis
 │ ├── 01_data_exploration.ipynb
@@ -47,4 +47,5 @@ HybridTrafficUAE/
 ├── requirements.txt # pip dependencies
 ├── README.md
 └── .gitignore
+
 
